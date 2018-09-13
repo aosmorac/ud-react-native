@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/abel/.android/build-cache/f8d8baca5cd1ccbd8554387d3875f3ff8d2333f0/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/mnt/51a7d60a-c99f-44e5-b6f1-fec79891265e/Estudio/React/react-native/auth/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7828a920cf58e4436b7a9478b5b05f9d4f30c8dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abel/.android/build-cache/f8d8baca5cd1ccbd8554387d3875f3ff8d2333f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/mnt/51a7d60a-c99f-44e5-b6f1-fec79891265e/Estudio/React/react-native/auth/android/app/build/intermediates/pre-dexed/debug/classes_790c125577f8d08f0d4d03517e12dc12a38de7b7.jar" />
+    </item>
+
+</items>

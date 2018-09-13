@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/mnt/51a7d60a-c99f-44e5-b6f1-fec79891265e/Estudio/React/react-native/auth/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/mnt/51a7d60a-c99f-44e5-b6f1-fec79891265e/Estudio/React/react-native/auth/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/51a7d60a-c99f-44e5-b6f1-fec79891265e/Estudio/React/react-native/auth/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/mnt/51a7d60a-c99f-44e5-b6f1-fec79891265e/Estudio/React/react-native/auth/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
